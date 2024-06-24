@@ -18,7 +18,7 @@ class Media {
 
 // Derived class Song that inherits from Media
 class Song extends Media {
-  // Additional attribute artist
+
   String artist;
 
   // Constructor for Song class
